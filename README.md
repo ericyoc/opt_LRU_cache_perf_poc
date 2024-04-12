@@ -1,11 +1,11 @@
-# Cache Replacement Algorithms
+# Cache Replacement Algorithm Analsyis
 
 This repository contains implementations and comparisons of different cache replacement algorithms, including Least Recently Used (LRU), First In First Out (FIFO), and Enhanced Not Recently Used (ENRU).
 
 # Motivating Article
 Gawanmeh, A., Abed, S., AlAwadh, S. A. A., Mansoor, W., Atalla, S., Alomari, A., & Yocam, E. (2023). Enhanced Not Recently Used Algorithm for Cache Memory Systems in Mobile Computing. Proceedings of the 2023 International Conference on Advances in Computing Research (ACR’23), 433–442. https://doi.org/10.1007/978-3-031-33743-7_35
 
-## Algorithms
+## Algorithm Type
 
 ### Least Recently Used (LRU)
 
