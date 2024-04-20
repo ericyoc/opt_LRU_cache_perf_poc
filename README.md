@@ -46,3 +46,7 @@ To use the cache replacement algorithms in your project, you can simply import t
 The Enhanced Not Recently Used (ENRU) algorithm provides a powerful cache replacement strategy that combines the strengths of LRU and FIFO. By dividing the cache into layers and using reference and dirty bits, ENRU optimizes cache performance in scenarios with conditional access patterns and limited cache capacity. It outperforms traditional algorithms like LRU and FIFO in such scenarios, making it a valuable choice for caching systems with specific requirements.
 
 Feel free to explore the code and adapt it to your needs. Contributions and feedback are welcome!
+
+**Disclaimer**
+This repository is intended for educational and research purposes.
+
